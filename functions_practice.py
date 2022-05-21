@@ -14,6 +14,6 @@ def eat_lunch(my_list):
         print('My lunchbox is empty')
 
 hello()
-my_list = pack('Ham', 'Bread', 'Juice')
+my_list = pack('Apple', 'Banana', 'Carrot')
 eat_lunch(my_list)
 
